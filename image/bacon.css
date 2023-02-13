@@ -1,0 +1,21 @@
+h1{
+    color: brown;
+    font-size: 150px;
+}
+img:hover{
+    background-color: rgb(126, 115, 250);
+}
+.bacon{
+    background-color: red;
+    width: 50%;
+
+}
+.broc{
+    background-color: green;
+}
+.circular{
+    border-radius: 100%;
+}
+#heading{
+    color: aqua;
+}
